@@ -22,7 +22,7 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 ## Diagrama de classes
 
-![Diagrama de classes](docs/docs_diagrama-classes.png)
+![Diagrama de classes](docs/diagrama-classes.png)
 
 ---
 
@@ -34,7 +34,7 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 **Quadro no início:**
 
-![Quadro no início do Sprint 1](docs/docs_sprint1-inicio.png)
+![Quadro no início do Sprint 1](docs/sprint1-inicio.png)
 
 **Quadro no fim:**
 
